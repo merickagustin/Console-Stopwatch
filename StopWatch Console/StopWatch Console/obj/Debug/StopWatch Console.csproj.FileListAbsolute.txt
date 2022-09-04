@@ -1,0 +1,7 @@
+C:\Users\Clear Sky\Documents\C# Projects\StopWatch Console\StopWatch Console\bin\Debug\StopWatch Console.exe.config
+C:\Users\Clear Sky\Documents\C# Projects\StopWatch Console\StopWatch Console\bin\Debug\StopWatch Console.exe
+C:\Users\Clear Sky\Documents\C# Projects\StopWatch Console\StopWatch Console\bin\Debug\StopWatch Console.pdb
+C:\Users\Clear Sky\Documents\C# Projects\StopWatch Console\StopWatch Console\obj\Debug\StopWatch Console.csprojAssemblyReference.cache
+C:\Users\Clear Sky\Documents\C# Projects\StopWatch Console\StopWatch Console\obj\Debug\StopWatch Console.csproj.CoreCompileInputs.cache
+C:\Users\Clear Sky\Documents\C# Projects\StopWatch Console\StopWatch Console\obj\Debug\StopWatch Console.exe
+C:\Users\Clear Sky\Documents\C# Projects\StopWatch Console\StopWatch Console\obj\Debug\StopWatch Console.pdb
